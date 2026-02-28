@@ -13,6 +13,7 @@ Built with an "API-Key Free" philosophy, the library aggregates data from open s
 
 ## 🛠️ Installation
 
-Clone the repository and install dependencies:
+You can install the library directly from GitHub using `pip`:
 
-pip install quantflow
+```bash
+pip install git+[https://github.com/TU_USUARIO/QuantFlow.git](https://github.com/TU_USUARIO/QuantFlow.git)
