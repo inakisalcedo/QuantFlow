@@ -1,0 +1,6 @@
+pandas
+ccxt
+pandas-datareader
+yfinance
+fear-and-greed-crypto
+requests
