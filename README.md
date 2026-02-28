@@ -16,4 +16,5 @@ Built with an "API-Key Free" philosophy, the library aggregates data from open s
 You can install the library directly from GitHub using `pip`:
 
 ```bash
-pip install git+[https://github.com/TU_USUARIO/QuantFlow.git](https://github.com/TU_USUARIO/QuantFlow.git)
+pip install git+https://github.com/inakisalcedo/QuantFlow.git
+
